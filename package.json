@@ -2,8 +2,8 @@
   "name": "@tate-it/react-ab-testing",
   "version": "4.0.3",
   "description": "React component for integrating test experiences with your react code from a source that decides what the variant should be.",
-  "main": "./index.js",
-  "types": "./index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "lint": "tslint -c tslint.json 'components/**/*.tsx'",
     "lint:fix": "tslint --fix -c tslint.json 'components/**/*.tsx'",

@@ -4,7 +4,8 @@
         "jsx": "react",
         "target": "es5",
         "declaration": true,
-        "types": []
+        "types": [],
+        "outDir": "dist"
     },
     "exclude": [
         "**/*.spec.*",

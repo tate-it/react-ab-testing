@@ -6,6 +6,7 @@ node_modules/
 coverage/
 styleguide/*
 .DS_Store
+dist/**
 
 # Add styleguide configuration file
 !styleguide.config.js

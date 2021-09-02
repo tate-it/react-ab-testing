@@ -15,3 +15,4 @@ styleguide/*
 
 # include the .d.ts files
 !components/**/*.d.ts
+.github/**
