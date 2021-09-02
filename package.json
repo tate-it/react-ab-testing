@@ -1,6 +1,6 @@
 {
   "name": "@tate-it/react-ab-testing",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "React component for integrating test experiences with your react code from a source that decides what the variant should be.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
