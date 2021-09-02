@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterlazzarino/react-controlled-AB.git"
+    "url": "git+https://github.com/tate-it/react-ab-testing.git"
   },
   "publishConfig": {
     "@lobetia:registry": "https://npm.pkg.github.com"
@@ -28,9 +28,9 @@
   "author": "Peter Lazzarino",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/peterlazzarino/react-controlled-AB/issues"
+    "url": "https://github.com/tate-it/react-ab-testing/issues"
   },
-  "homepage": "https://github.com/peterlazzarino/react-controlled-AB#readme",
+  "homepage": "https://github.com/tate-it/react-ab-testing#readme",
   "dependencies": {
     "array-index-of": "^0.1.0",
     "prop-types": "15.6.0",
