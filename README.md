@@ -1,7 +1,6 @@
-# React Controlled AB
+# React AB Testing
 
-React component for integrating test experiences with your react code from a source like VWO and evergage that decides what the variant should be.
-
+React component for integrating test experiences with your React code from a source like VWO that decides what the variant should be.
 
 ## What it does
 
@@ -26,7 +25,7 @@ $ yarn add react-controlled-ab
 ```javascript
 
 import React, { Component } from 'react';
-import ABTest, { DebugMenu } from "react-controlled-ab"
+import ABTest from "react-controlled-ab"
 import { subscribeToCampaign } from "react-controlled-ab/datalayers/vwo/Datalayer"
 
 <ABTest campaign={50} subscribeFunc={subscribeToCampaign}>
